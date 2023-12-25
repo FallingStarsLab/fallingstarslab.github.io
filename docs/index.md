@@ -1,3 +1,3 @@
 # Hello this is my new page
 
-Greetings
+This page will talks about a lot of things
