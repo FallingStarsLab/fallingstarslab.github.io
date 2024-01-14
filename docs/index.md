@@ -1,1 +1,1 @@
-# Come back later, I am working on the content
+# If suffering is inevitable to living beings, then make your suffering meaningful.
