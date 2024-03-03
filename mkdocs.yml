@@ -53,7 +53,7 @@ plugins:
       categories: true
       blog_dir: . 
       categories_allowed:
-        - Hello
+        - animal
   
 
 
