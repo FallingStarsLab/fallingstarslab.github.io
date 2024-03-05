@@ -54,6 +54,7 @@ plugins:
       blog_dir: . 
       categories_allowed:
         - animal
+        - happiness
   
 
 
